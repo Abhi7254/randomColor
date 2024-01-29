@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+.div1{
+    height: 25vh;
+    width: 500px;
+    border: solid black 0.1rem;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
