@@ -33,7 +33,7 @@ function random(){
 
 function rand(){
         
-        setInterval(random, 2000);
+        setInterval(random, 200);
 }
 
 btn.addEventListener("click",rand);
